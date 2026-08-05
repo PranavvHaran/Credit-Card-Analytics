@@ -185,3 +185,5 @@ Banking-Fraud-Analytics/
 ## Author
 
 **Pranav Haran**
+Linkedin: *(linkedin.com/in/pranavv-haran)*
+
