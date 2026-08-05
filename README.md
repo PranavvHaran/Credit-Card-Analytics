@@ -157,7 +157,7 @@ Banking-Fraud-Analytics/
 
 ---
 
-## 📊 SQL Concepts Used
+## SQL Concepts Used
 
 - Data Cleaning
 - Data Validation
@@ -171,7 +171,7 @@ Banking-Fraud-Analytics/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Automated ETL Pipeline
 - Incremental Data Loading
@@ -182,6 +182,6 @@ Banking-Fraud-Analytics/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Pranav Haran**
