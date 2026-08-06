@@ -3,7 +3,7 @@ End-to-end fraud &amp; risk analytics on 500K+ credit card transactions using Sn
 
 ## Project Overview
 
-This project demonstrates an end-to-end Banking Fraud Analytics solution using Snowflake, SQL, and Power BI. The objective was to transform raw banking transaction data into a business-ready data warehouse using Kimball dimensional modeling and build interactive dashboards for fraud detection and business insights.
+This project demonstrates an end-to-end Credit_Card_Analytics using Snowflake, SQL, and Power BI. The objective was to transform raw banking transaction data into a business-ready data warehouse using Kimball dimensional modeling and build interactive dashboards for fraud detection and business insights.
 
 The project covers data cleaning, star schema design, business views, analytical SQL, and dashboard development.
 
@@ -120,19 +120,23 @@ The Power BI dashboard provides insights into:
 
 ```
 
-Banking-Fraud-Analytics/
+Credit-Card-Analytics
 
 │
 
 ├── SQL/
-│ ├── 01_Data_Cleaning.sql
-│ ├── 02_Dim_Date.sql
-│ ├── 03_Dim_Category.sql
-│ ├── 04_Dim_Customer.sql
-│ ├── 05_Dim_Merchant.sql
-│ ├── 06_Fact_Transactions.sql
-│ ├── 07_Views.sql
-│ └── 08_Business_Questions.sql
+│ ├── 01_Database_Setup.sql
+│ ├── 03_Create_Table.sql
+│ ├── 03_Load_Table.sql
+│ ├── 04_Data_Validation.sql
+│ ├── 05_Data_Cleaning.sql
+│ ├── 06_Data_Cleaning_Clean_Transaction.sql
+│ ├── 07_Dim_Date.sql
+│ ├── 08_Dim_Category.sql
+│ ├── 09_Dim_Customer.sql
+│ ├── 10_Dim_Merchant.sql
+│ ├── 11_Fact_Transactions.sql
+│ ├── 12_Views.sql
 
 │
 
