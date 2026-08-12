@@ -141,7 +141,9 @@ Credit-Card-Analytics
 │
 
 ├── PowerBI/
-│ └── Banking_Fraud.pbix
+├── DAX Measures_01.png
+├── Dashboard_01.png
+├── Data Modeling_01.png
 
 │
 
